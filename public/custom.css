@@ -1,0 +1,22 @@
+body {
+    background-color: darkgrey;
+}
+
+.form-label {
+    font-size: 1.6rem; 
+    color: rgb(1, 12, 14); 
+}
+
+.container {
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.card {
+    background-color: #f8f9fa; 
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
