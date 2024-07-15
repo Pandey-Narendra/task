@@ -7,6 +7,7 @@
 
 # Clone the repository
 git clone https://github.com/Pandey-Narendra/task.git
+
 cd ecommerce-website
 
 # Install PHP dependencies
