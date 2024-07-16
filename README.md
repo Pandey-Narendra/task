@@ -1,3 +1,4 @@
+This project is a Laravel and Bootstrap-based eCommerce website with user authentication, product management, and shopping cart functionality. Users can register, log in, browse products, add them to their cart, and checkout. Admins can manage products and view orders. The responsive design ensures a seamless shopping experience across  devices.
 
 ![Home page before login](data/ecommerce-1.png)
 ![Home page after login](data/ecommerce-2.png)
