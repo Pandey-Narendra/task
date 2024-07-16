@@ -16,6 +16,7 @@ composer install
 
 # Install JavaScript dependencies and compile assets
 npm install
+
 npm run dev
 
 # Set up the database
