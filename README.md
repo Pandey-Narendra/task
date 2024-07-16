@@ -1,9 +1,9 @@
 
-![Home page before login](data\ecommerce-1.png)
-![Home page after login](data\ecommerce-2.png)
-![Product Page](data\ecommerce-3.png)
-![Product Individual Page](data\ecommerce-4.png)
-![Cart Page](data\ecommerce-5.png)
+![Home page before login](data/ecommerce-1.png)
+![Home page after login](data/ecommerce-2.png)
+![Product Page](data/ecommerce-3.png)
+![Product Individual Page](data/ecommerce-4.png)
+![Cart Page](data/ecommerce-5.png)
 
 # Clone the repository
 git clone https://github.com/Pandey-Narendra/task.git
