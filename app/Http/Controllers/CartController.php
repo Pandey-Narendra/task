@@ -134,11 +134,11 @@ class CartController extends Controller
             $cartItem = Cart::findOrFail($id);
             // return response()->json(['success' => $cartItem]);
             $cartItem->delete();
-            return response()->with('success_message', 'Cart Item deleted successfully!');
+            return  redirect()->back()->with('success_message', 'Cart Item deleted successfully!');
         } catch (ModelNotFoundException $e) {
-            return response()->with('error_message', 'Error deleting product: ' . $e->getMessage());
+            return  redirect()->back()->with('error_message', 'Error deleting product: ' . $e->getMessage());
         } catch (Exception $e) {
-            return response()->with('error_message', 'Error deleting product: ' . $e->getMessage());
+            return  redirect()->back()->with('error_message', 'Error deleting product: ' . $e->getMessage());
         }
     }
 }
